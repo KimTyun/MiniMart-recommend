@@ -39,10 +39,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><strong>Machine Learning</strong></td>
-      <td>
-        <td align="center"><p>Python 3.13.7, FastAPI</p></td>
-      </td>
+      <td align="center"><strong>Python 3.13.7, FastAPI</strong></td>
     </tr>
     <tr>
       <td align="center"><strong>Uvicorn</strong></td>
@@ -112,6 +109,7 @@
 <br />
 <br />
 <a href="https://github.com/KimTyun/MiniMart-recommend">recommend git 링크</a>
+
 
 
 

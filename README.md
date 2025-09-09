@@ -41,8 +41,29 @@
     <tr>
       <td align="center"><strong>Machine Learning</strong></td>
       <td>
-        <td align="center"><p>Python 3.13.7, FastAPI, Uvicorn, pandas, scikit-learn(LabelEncoder),scipy, numpy, implicit(ALS), python-dotenv</p></td>
+        <td align="center"><p>Python 3.13.7, FastAPI</p></td>
       </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Uvicorn</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>pandas</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>scikit-learn(LabelEncoder)</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>scipy</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>numpy</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>implicit(ALS)</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>python-dotenv</strong></td>
     </tr>
   </tbody>
 </table>
@@ -91,6 +112,7 @@
 <br />
 <br />
 <a href="https://github.com/KimTyun/MiniMart-recommend">recommend git 링크</a>
+
 
 
 

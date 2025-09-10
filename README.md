@@ -97,7 +97,8 @@
 <img width="3020" height="1412" alt="Project_Minimart (1)" src="https://github.com/user-attachments/assets/8e27cd04-7b8c-4160-83a3-98e312bd8ad6" />
 
 ### 프로젝트 아키텍쳐
-<img width="1990" height="1100" alt="image" src="https://github.com/user-attachments/assets/b2db01ff-1131-44d5-97f5-e9d886d1bf1f" />
+<img width="1990" height="1100" alt="image" 
+src="https://github.com/user-attachments/assets/55b03951-472b-4124-b3ee-108e4bac4e1d" />
 
 ------------
 ### 프로젝트 협업용 git
@@ -109,6 +110,7 @@
 <br />
 <br />
 <a href="https://github.com/KimTyun/MiniMart-recommend">recommend git 링크</a>
+
 
 
 
